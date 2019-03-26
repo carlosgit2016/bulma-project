@@ -6,3 +6,88 @@ nav.navbar{
     background-image: url('http://obviousmag.org/diferente/2015/07/02/Bandeira_do_brasil-8.jpg');
     background-repeat: no-repeat;
 }
+
+.third{
+    background-image: url('./assets/images/airplane_wing.jpg');
+    background-repeat: no-repeat;
+}
+
+.four {
+    background-color: white;
+}
+
+.six{
+    background-color: white;
+}
+
+.five{
+    background-image: url('./assets/images/airplane_wing.jpg');
+    background-repeat: no-repeat;
+}
+
+.seven{
+    background-image: url('./assets/images/cachorro-flor-wallpaper.jpg');
+    background-repeat: no-repeat;
+}
+
+.eight{
+    background-color: white;
+}
+
+.card-1{
+    background-image: url('./assets/images/001.jpg');
+    background-repeat: no-repeat;
+}
+
+.card-2{
+    background-image: url('./assets/images/002.jpg');
+    background-repeat: no-repeat;
+}
+
+.card-3{
+    background-image: url('./assets/images/003.jpg');
+    background-repeat: no-repeat;
+}
+
+.no-border{
+    border: none !important;
+    box-shadow: none;
+}
+
+.align-price{
+    margin: 1em 0em;
+}
+
+.card-image-bkc{
+    height: 21.5em;
+}
+
+.nine{
+    background-color: beige;
+}
+nav div.links{
+    font-size: 0.8em;
+    margin: 1em;
+}
+
+.navbar-start.main{
+    margin-left: 15em;
+}
+
+.navbar-start.main div img{
+    width: 3em;
+}
+
+a.navbar-item{
+    font-size: 0.8em;
+    color: white;
+}
+
+div.icons div.navbar-item {
+    width: 3em;
+    cursor: pointer;
+}
+
+div.icons div.navbar-item:hover {
+    background-color: green;
+}
